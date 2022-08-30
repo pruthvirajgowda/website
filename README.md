@@ -1,2 +1,2 @@
 # website
-a website where you post things, comment on posts, login/register
+a website where you can post things, comment on posts, login/register
